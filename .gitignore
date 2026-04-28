@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bak.*
+server/recv_debug.log
+server/server.log
+server/debug_code_160_220.py
+android-app/build/
+*.apk
